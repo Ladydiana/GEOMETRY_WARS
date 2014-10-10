@@ -1,0 +1,72 @@
+﻿Build started 01.11.2013 23:33:28.
+     1>Project "C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\framework\object2d.h(25): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(49): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(68): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(82): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(94): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(97): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(100): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(103): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(106): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(230): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(232): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(233): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(241): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(252): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(254): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(261): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(263): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(268): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(278): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(291): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(296): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(298): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(305): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(310): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(312): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(439): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(440): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(442): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(445): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(453): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(455): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(458): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(466): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(468): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(471): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(478): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(480): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(483): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(493): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(494): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(496): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(499): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(509): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(510): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(512): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(515): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(525): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(526): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(528): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(531): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(541): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(542): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(544): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\diana\downloads\lab2_egc\tema1egc\lab2\main.cpp(547): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\Debug\lab2.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\Debug\lab2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\Debug\lab2.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Visual2D.obj
+         Debug\main.obj
+         lab2.vcxproj -> C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\Debug\lab2.exe
+     1>Done Building Project "C:\Users\Diana\Downloads\lab2_EGC\Tema1EGC\lab2\lab2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.38
